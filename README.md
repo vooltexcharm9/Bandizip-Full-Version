@@ -241,4 +241,4 @@ This repository serves as the official landing page for Bandizip. The software i
 **Get the most recent version of Bandizip today!**
 
 ---
-**Last updated:** 2026-11-06 02:59:08 UTC
+**Last updated:** 2026-11-06 10:30:56 UTC
